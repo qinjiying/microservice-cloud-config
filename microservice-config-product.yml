@@ -11,6 +11,8 @@ mybatis:
   mapper-locations: classpath:mybatis/mapper/**/*.xml
 spring:
   profiles: dev # 开发环境
+  emp:
+    name: lisi
   application:
     name: microservice-product-config			# ******服务名*******
   datasource:
