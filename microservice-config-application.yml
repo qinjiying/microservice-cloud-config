@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: dev # ¼¤»î¿ª·¢»·¾³ÅäÖÃ
+    active: dev # æ¿€æ´»å¼€å‘ç¯å¢ƒé…ç½®
 ---
 server:
   port: 4001
